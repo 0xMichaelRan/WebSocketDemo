@@ -1,10 +1,6 @@
 <?php
 /**
  * WebSocket extension class of phpWebSockets
- *
- * @author Moritz Wutz <moritzwutz@gmail.com>
- * @version 0.1
- * @package phpWebSockets
  */
 
 class socketWebSocket extends socket

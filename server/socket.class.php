@@ -1,13 +1,5 @@
 <?php
 /**
- * Socket class of phpWebSockets
- *
- * @author Moritz Wutz <moritzwutz@gmail.com>
- * @version 0.1
- * @package phpWebSockets
- */
-
-/**
  * This is the main socket class
  */
 class socket
